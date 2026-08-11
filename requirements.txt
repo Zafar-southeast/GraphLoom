@@ -1,0 +1,25 @@
+# GraphLoom RAG - Requirements
+# Core dependencies
+huggingface-hub>=0.20.0
+transformers>=4.40.0
+
+# API clients
+openai>=1.0.0
+groq>=0.4.0
+
+# Knowledge graph and NLP
+networkx>=3.0
+spacy>=3.7.0
+
+# Triple extraction (REBEL)
+# Note: REBEL uses transformers, included above
+
+# Utilities
+numpy>=1.24.0
+pillow>=10.0.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# For NLI-based verification (BART-MNLI)
+# Already included via transformers
