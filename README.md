@@ -2,7 +2,7 @@
 
 **Multimodal KG-RAG Framework for Grounded Question Answering**
 
-GraphLoom is a Python implementation of the paper "GraphLoom: Controlled Evidence Injection for Interleaved KG-RAG in Multimodal QA". It combines retrieval-augmented generation with instance-level multimodal knowledge graphs for accurate, evidence-grounded answers.
+GraphLoom is a Python implementation of the paper "GraphLoom: Reliability-Calibrated Graph Evidence Routing for Multimodal KG-RAG". It combines retrieval-augmented generation with instance-level multimodal knowledge graphs for accurate, evidence-grounded answers.
 
 ## Features
 
