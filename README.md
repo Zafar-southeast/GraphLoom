@@ -531,10 +531,11 @@ GraphLoom follows the architecture from the paper:
 If you use GraphLoom in your research, please cite:
 
 ```bibtex
-@article{graphloom2025,
-  title={GraphLoom: Controlled Evidence Injection for Interleaved KG-RAG in Multimodal QA},
-  author={Anonymous},
-  year={2025}
+@inproceedings{ali2026graphloom,
+  title     = {GraphLoom: Reliability-Calibrated Graph Evidence Routing for Multimodal KG-RAG},
+  author    = {Ali, Zafar and Khan, Asad and Malik, Aalia and Kefalas, Pavlos},
+  booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
+  year      = {2026}
 }
 ```
 
