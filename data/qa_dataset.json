@@ -1,0 +1,32 @@
+[
+  {
+    "id": "example_001",
+    "question": "What kind of animal is a dog?",
+    "ground_truth": "mammal",
+    "image": null
+  },
+  {
+    "id": "example_002",
+    "question": "How many legs does a dog have?",
+    "ground_truth": "four",
+    "image": null
+  },
+  {
+    "id": "example_003",
+    "question": "What is a golden retriever?",
+    "ground_truth": "a type of dog",
+    "image": null
+  },
+  {
+    "id": "example_004",
+    "question": "What can you find at a beach?",
+    "ground_truth": "sand",
+    "image": null
+  },
+  {
+    "id": "example_005",
+    "question": "How far is the Dipsea Trail?",
+    "ground_truth": "7.9 miles",
+    "image": null
+  }
+]

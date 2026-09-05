@@ -1,0 +1,65 @@
+[
+  {
+    "subject": "dog",
+    "relation": "is a",
+    "object": "animal",
+    "confidence": 0.95,
+    "source": "example"
+  },
+  {
+    "subject": "dog",
+    "relation": "has",
+    "object": "four legs",
+    "confidence": 0.95,
+    "source": "example"
+  },
+  {
+    "subject": "golden retriever",
+    "relation": "is a type of",
+    "object": "dog",
+    "confidence": 0.95,
+    "source": "example"
+  },
+  {
+    "subject": "beach",
+    "relation": "has",
+    "object": "sand",
+    "confidence": 0.9,
+    "source": "example"
+  },
+  {
+    "subject": "beach",
+    "relation": "located near",
+    "object": "ocean",
+    "confidence": 0.9,
+    "source": "example"
+  },
+  {
+    "subject": "sunset",
+    "relation": "occurs at",
+    "object": "evening",
+    "confidence": 0.85,
+    "source": "example"
+  },
+  {
+    "subject": "woman",
+    "relation": "playing with",
+    "object": "dog",
+    "confidence": 0.9,
+    "source": "example"
+  },
+  {
+    "subject": "trail sign",
+    "relation": "shows",
+    "object": "distance information",
+    "confidence": 0.9,
+    "source": "example"
+  },
+  {
+    "subject": "Dipsea Trail",
+    "relation": "distance",
+    "object": "7.9 miles",
+    "confidence": 0.95,
+    "source": "example"
+  }
+]
